@@ -78,3 +78,5 @@ var SomeModelSchema = new Schema({
                       process.exit(1);
                     });
     
+
+                    module.exports = mongoose.model("fitnessschema", fitnessschema)
