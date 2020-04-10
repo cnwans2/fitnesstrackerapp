@@ -1,1 +1,3 @@
 # fitnesstrackerapp
+
+This fitness tracker app is desgined to help users who a keen on tracking their fitness. This app allowes the user to go through the programs and record their reps and their times of each excersice that they have accomplised. This app is designed with mongodb and uses moongoose as well. The app should allow users to add and delete excersices as they choose, and store that data into the database. This app is great for anyone looking to gain an upper hand on their fitness, and the easy layout makes it easier for users to follow. This app is for people of all ages.
