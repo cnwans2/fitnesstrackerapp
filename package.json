@@ -1,0 +1,22 @@
+{
+  "name": "fitnesstrackerapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "seeds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnwans2/fitnesstrackerapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnwans2/fitnesstrackerapp/issues"
+  },
+  "homepage": "https://github.com/cnwans2/fitnesstrackerapp#readme",
+  "dependencies": {
+    "mongoose": "^5.9.7"
+  }
+}
